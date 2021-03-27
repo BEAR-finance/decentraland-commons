@@ -34,11 +34,6 @@
   ],
   "author": "Decentraland",
   "license": "ISC",
-  "prettier": {
-    "printWidth": 80,
-    "singleQuote": true,
-    "semi": false
-  },
   "dependencies": {},
   "devDependencies": {
     "@types/chai": "^4.2.11",
